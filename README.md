@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Debabrata Andia<br><br>I'm a passionate **Software Developer & Computer Science Student** who loves building web applications and solving coding problems.  <br>I enjoy learning new technologies and improving my problem-solving skills every day.<br><br>### 🚀 Skills<br>- HTML, CSS, JavaScript  <br>- Git & GitHub  <br>- C / C++ / Java / Python (basic)  <br>- Data Structures & Algorithms  <br><br>### 🌱 Currently Learning<br>- B-tech in Computer Science & Engineering<br>- Full Stack Web Development  <br>- DSA & Competitive Programming  <br>
+## 👋 Hi, I'm Debabrata Andia<br><br>I'm a passionate **Software Developer & Computer Science Student** who loves building web applications and solving coding problems.  <br>I enjoy learning new technologies and improving my problem-solving skills every day.<br><br>### 🚀 Skills<br>- HTML, CSS, JavaScript  <br>- Git & GitHub  <br>-Java / Python (basic)  <br>- Data Structures & Algorithms  <br><br>### 🌱 Currently Learning<br>- B-tech in Computer Science & Engineering<br>- Full Stack Web Development  <br>- DSA & Competitive Programming  <br>
 
 
 ## 🌐 Socials:
